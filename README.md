@@ -1,4 +1,6 @@
 # damage-calc
+![](https://github.com/kahunman/damage-calc-4005-gh-actions/workflows/Damage%20Calculation%20est/badge.svg)
+
 このモジュールでは、ダメージ計算を行うことができます。  
 ダメージ計算には
 
